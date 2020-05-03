@@ -1,0 +1,9 @@
+/Users/tharunparackal/Documents/GitHub/NumberType/NumType/bin/Debug/netstandard2.0/NumType.deps.json
+/Users/tharunparackal/Documents/GitHub/NumberType/NumType/bin/Debug/netstandard2.0/NumType.dll
+/Users/tharunparackal/Documents/GitHub/NumberType/NumType/bin/Debug/netstandard2.0/NumType.pdb
+/Users/tharunparackal/Documents/GitHub/NumberType/NumType/obj/Debug/netstandard2.0/NumType.csprojAssemblyReference.cache
+/Users/tharunparackal/Documents/GitHub/NumberType/NumType/obj/Debug/netstandard2.0/NumType.csproj.CoreCompileInputs.cache
+/Users/tharunparackal/Documents/GitHub/NumberType/NumType/obj/Debug/netstandard2.0/NumType.AssemblyInfoInputs.cache
+/Users/tharunparackal/Documents/GitHub/NumberType/NumType/obj/Debug/netstandard2.0/NumType.AssemblyInfo.cs
+/Users/tharunparackal/Documents/GitHub/NumberType/NumType/obj/Debug/netstandard2.0/NumType.dll
+/Users/tharunparackal/Documents/GitHub/NumberType/NumType/obj/Debug/netstandard2.0/NumType.pdb

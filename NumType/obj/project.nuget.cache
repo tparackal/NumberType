@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bCkLofviN0MPJe/iIUfZDXb5WKimZFElQ1y/hMJAlLTps8yNtJnOAKNT9NbN/r4j60Wb5PzoOzHcesuv0HFtYg==",
+  "success": true,
+  "projectFilePath": "/Users/tharunparackal/Documents/GitHub/NumberType/NumType/NumType.csproj",
+  "expectedPackageFiles": [
+    "/Users/tharunparackal/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/tharunparackal/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

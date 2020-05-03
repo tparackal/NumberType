@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/tharunparackal/Documents/GitHub/NumberType/NumType/NumType.csproj": {}
+  },
+  "projects": {
+    "/Users/tharunparackal/Documents/GitHub/NumberType/NumType/NumType.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tharunparackal/Documents/GitHub/NumberType/NumType/NumType.csproj",
+        "projectName": "NumType",
+        "projectPath": "/Users/tharunparackal/Documents/GitHub/NumberType/NumType/NumType.csproj",
+        "packagesPath": "/Users/tharunparackal/.nuget/packages/",
+        "outputPath": "/Users/tharunparackal/Documents/GitHub/NumberType/NumType/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tharunparackal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
