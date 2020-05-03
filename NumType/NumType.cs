@@ -19,7 +19,7 @@ namespace Num.Services
 
             if(isZero(value))
             {
-                result = "Zero";
+                result = "zero";
             }
 
             return result;
